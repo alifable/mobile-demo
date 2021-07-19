@@ -15,4 +15,5 @@ Kelas 2E
 Kelas 2F
 1.361955401155 - Rohmad Kurniadi
 2.361955401152 - Satria Teguh Perkasa
+3.361955401154 - Arief Ramadhan
 
