@@ -13,4 +13,6 @@ Kelas 2E
 2.
 
 Kelas 2F
-1.361955401152-Satria Teguh Perkasa
+1.361955401155 - Rohmad Kurniadi
+2.361955401152 - Satria Teguh Perkasa
+
