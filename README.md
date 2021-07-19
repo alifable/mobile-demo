@@ -13,5 +13,4 @@ Kelas 2E
 2.
 
 Kelas 2F
-1.NIM - Nama
-2.
+1.361955401152-Satria Teguh Perkasa
