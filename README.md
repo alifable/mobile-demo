@@ -9,9 +9,9 @@ Kelas 2D
 2. 
 
 Kelas 2E
-1.NIM - Nama
+1.NIM -Nama
 2.
 
 Kelas 2F
-1.NIM - Nama
+1.361955401153 - HILMI BAKHTIAR
 2.
