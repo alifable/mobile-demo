@@ -18,6 +18,7 @@ Kelas 2E
 9. 361955401131 - Yusuf Farhan Nurrahman
 12. 361955401135 – Alifia helda Cahyani
 14. 361955401137 - Bharamiyati Athalas Bharka
+16. 361955401138 - Femas Febriano
 
 
 Kelas 2F
