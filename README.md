@@ -5,7 +5,15 @@ Flutter project.
 Kelas 2D
 1.361955401091 - Hadi Rizaldi Rahmanto
 2. 
-
+3.
+4.
+5.
+6.
+7.
+8. 361955401099 - Tedi Ahmad Barkah
+9. 
+ 
+ 
 Kelas 2E
 1. 361955401137 - Bharamiyati Athalas Bharka
 2.
