@@ -11,7 +11,7 @@ Kelas 2D
 5. 
 6. 
 7.361955401097 - Dino Alwi Patriardi 
-8.
+8. 361955401099 - Tedi Ahmad Barkah
 9.
 10. 361955401101 - Maldini Dwi Putra
 11.
