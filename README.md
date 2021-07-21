@@ -27,6 +27,7 @@ Kelas 2D
 21.361955401112 - Muhammad Arif Purnama Aji
 22.
 23.
+24. 361955401115 - M Arsya Pratama
 25.
 26.
 
