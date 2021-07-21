@@ -12,7 +12,7 @@ Kelas 2D
 6. 361955401096 - Kakung Sanjaya
 7. 361955401097 - Dino Alwi Patriardi 
 8. 361955401099 - Tedi Ahmad Barkah 
-9. 
+9. 361955401100 - Madlubi Ajizi
 10. 361955401101 - Maldini Dwi Putra 
 11. 361955401102 - Nurul Hidayati Novitasari
 12. 361955401103 - Putri Aliyya Wildhani 
@@ -28,6 +28,7 @@ Kelas 2D
 22. 361955401113 - Dewinta Dinda Prastika
 23. 361955401114 - Nella Bidayatus Sa'adah
 24. 361955401115 - M Arsya Pratama
+
 
 Kelas 2E
 
