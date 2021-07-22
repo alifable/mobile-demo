@@ -46,7 +46,7 @@ Kelas 2E
 12. 361955401137 - Bharamiyati Athalas Bharka
 13. 361955401138 - Femas Febriano
 14. 361955401139 - Nurul Huda Saputra
-15.
+15. 361955401129 - Iqbal Rizky Ramadhan
 16.
 17. 361955401145 - Windhu Aji Wicaksono
 18. 361955401144 - Lutfi Filaily Asrofi
