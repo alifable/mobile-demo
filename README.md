@@ -28,6 +28,8 @@ Kelas 2D
 22. 361955401113 - Dewinta Dinda Prastika
 23. 361955401114 - Nella Bidayatus Sa'adah
 24. 361955401115 - M Arsya Pratama
+25.
+26. 361955401119 - Ila Risqiya Kh
 
 
 Kelas 2E
