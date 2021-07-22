@@ -19,7 +19,7 @@ Kelas 2D
 13. 361955401105 - Denny Indra Irawan
 14
 15
-16 
+16. 361955401107 - Shefila Rizqi Adinda
 17. 361955401108 - Syva Dila Kharisma
 18.  
 19. 361955401110 - Toni Ariyanto
