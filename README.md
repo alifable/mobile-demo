@@ -20,7 +20,7 @@ Kelas 2D
 14
 15
 16 
-17. 
+17. 361955401108 - Syva Dila Kharisma
 18.  
 19. 361955401110 - Toni Ariyanto
 20.
