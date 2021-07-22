@@ -21,7 +21,7 @@ Kelas 2D
 15
 16. 361955401107 - Shefila Rizqi Adinda
 17. 361955401108 - Syva Dila Kharisma
-18.  
+18. 361955401109 - Moh Hisyam Ali Yafie
 19. 361955401110 - Toni Ariyanto
 20.
 21. 361955401112 - Muhammad Arif Purnama Aji 
